@@ -3,7 +3,7 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=2776478243
 
 https://steamcommunity.com/sharedfiles/filedetails/?id=2776479028
 
-*The consequences of opening sourcing*
+*The consequences of open sourcing*
 
 # Easy Offset
 
