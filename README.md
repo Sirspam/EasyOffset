@@ -1,3 +1,10 @@
+# This fork replaces the Valve Knuckles model texture with the following textures
+https://steamcommunity.com/sharedfiles/filedetails/?id=2776478243
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=2776479028
+
+*The consequences of opening sourcing*
+
 # Easy Offset
 
 Beat Saber mod for intuitive controller offset adjustments. Suitable for both beginners and advanced players
